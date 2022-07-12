@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CarSalesSystemOT4A">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CarSalesSystemOT4A.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
